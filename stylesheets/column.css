@@ -8,14 +8,15 @@ article {
 /* Pattern styles */
 .container {
   display: table;
+  border:none;
 }
 
 .left-half {
   float: left;
-  width: 30%;
+  width: 40%;
 }
 
 .right-half {
   float: right;
-  width: 70%;
+  width: 60%;
 }
