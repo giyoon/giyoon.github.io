@@ -13,7 +13,6 @@ article {
 /* Pattern styles */
 .container {
   display: table;
-  width: 100%;
 }
 
 .left-half {
