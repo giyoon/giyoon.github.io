@@ -16,15 +16,11 @@ article {
 }
 
 .left-half {
-  background-color: #ff9e2c;
-  position: absolute;
-  left: 0px;
+  float: left;
   width: 30%;
 }
 
 .right-half {
-  background-color: #b6701e;
-  position: absolute;
-  right: 0px;
+  float: right;
   width: 70%;
 }
