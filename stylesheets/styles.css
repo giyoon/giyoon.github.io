@@ -261,13 +261,15 @@ footer {
     width:auto;
   }
   
-/* .left-half {
+.left-half {
+  float: left;
   width: 30%;
 }
 
 .right-half {
+  float: right;
   width: 60%;
-} */
+}
   
 
   header {
