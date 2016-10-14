@@ -19,5 +19,5 @@ article {
 .right-half {
   float: right;
   width: 70%;
-  padding-left:50px;
+  padding:50px 0;
 }
