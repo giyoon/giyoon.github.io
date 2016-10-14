@@ -260,17 +260,7 @@ footer {
     position:static;
     width:auto;
   }
-  
-.left-half {
-  float: left;
-  width: 30%;
-}
-
-.right-half {
-  float: right;
-  width: 60%;
-}
-  
+   
 
   header {
     padding-right:320px;
